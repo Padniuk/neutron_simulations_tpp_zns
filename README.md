@@ -1,4 +1,4 @@
-# Neutron attenuation in TPP $_2$ MnBr $_4$ and PP:ZnS
+# Neutron attenuation in TPP2MnBr4 and PP:ZnS
 
 This is simulation code for neutron attenuation in metal halide hybrids. As a particle source spectrum from SINQ was used.
 
